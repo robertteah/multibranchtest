@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Sandbox Environment') {
             steps {
-              sh "echo MSandBranch"              
+              sh "echo SandBranch"              
               }
              }
             }
